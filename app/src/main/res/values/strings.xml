@@ -9,4 +9,15 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="Login">LOGIN</string>
+    <string name="LoginToFacebook">Login To Facebook</string>
+    <string name="GoesTo">Goes to</string>
+    <string name="LivesIn">Lives in</string>
+    <string name="From">From</string>
+    <string name="AddToStory">Add to Story</string>
+    <string name="ViewAs">View As</string>
+    <string name="EditProfile">Edit Profile</string>
+    <string name="More">More</string>
 </resources>

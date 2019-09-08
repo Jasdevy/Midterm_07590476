@@ -15,18 +15,18 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button loginbuttom =findViewById(R.id.Login);
+        /*Button loginbuttom =findViewById(R.id.Login);
 
         loginbuttom.setOnClickListener(new View.OnClickListener() {
             Toast t=Toast.makeText(MainActivity.this,"Hello",Toast.LENGTH_SHORT);
 
             @Override
             public void onClick(View view) {
-                EditText eamieditText=findViewById(R.id.email_edit);
-                EditText paswordeditText=findViewById(R.id.password_edit);
+                EditText eamieditText=findViewById(R.id.editText);
+                EditText paswordeditText=findViewById(R.id.editText2);
 
 
                 String inputemail=eamieditText.getText().toString();
-                String inputpasword=paswordeditText.getText().toString();
+                String inputpasword=paswordeditText.getText().toString();*/
     }
 }
